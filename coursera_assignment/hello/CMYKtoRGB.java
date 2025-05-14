@@ -1,4 +1,3 @@
-package hello;
 public class CMYKtoRGB {
     public static void main(String[] args) {
         double c = Double.parseDouble(args[0]);

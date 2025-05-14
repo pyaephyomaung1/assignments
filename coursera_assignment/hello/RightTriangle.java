@@ -1,4 +1,3 @@
-package hello;
 public class RightTriangle {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

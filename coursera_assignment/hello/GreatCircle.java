@@ -1,4 +1,3 @@
-package hello;
 public class GreatCircle {
     public static void main(String[] args) {
         double x1 = Math.toRadians(Double.parseDouble(args[0]));
